@@ -1,0 +1,63 @@
+body {
+      background-color: #777;
+      width: 960px;
+    font-size:18px;
+
+}
+
+header, section, article, aside, footer {
+
+   background-color: #80ff80;
+   text-align: center;
+   padding: 10px;
+   margin: 10px;
+}
+
+
+
+header {
+
+  text-align: center;
+  padding: 15px;
+  margin:10px;
+}
+
+.nav1,.nav2 {
+
+    background-color: #80ff80;
+  text-align: center;
+  padding: 15px;
+  margin:10px;
+}
+
+section {
+
+  width: 495px;
+  height: 267px;
+  float:left;
+}
+
+aside {
+  float: right;
+  display: block;
+  overflow: hidden;
+  width: 40%;
+  height: 267px;
+}
+
+article {
+
+  padding: 10px;
+    color: #ebebeb;
+    background: #777;
+}
+
+h1,
+p {
+  width: 90%;
+  padding: 10px;
+  margin: 10px;
+  color: #777;
+  text-align: center;
+  background: #80ff80;
+}
